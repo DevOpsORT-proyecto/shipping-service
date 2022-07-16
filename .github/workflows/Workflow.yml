@@ -8,5 +8,5 @@ jobs:
     uses: DevOpsORT-proyecto/obligatorioDevOps-infra/.github/workflows/Java-Workflow.yml@main
     with:
       service-name: shipping
-      sonar-project-key: DevOpsORT-proyecto_orders-service
+      sonar-project-key: DevOpsORT-proyecto_shipping-service
     secrets: inherit
