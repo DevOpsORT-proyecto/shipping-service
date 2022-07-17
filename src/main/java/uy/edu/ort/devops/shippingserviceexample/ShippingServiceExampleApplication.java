@@ -8,6 +8,7 @@ public class ShippingServiceExampleApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Shipping Service Started on Port 8080");
+		System.out.println("Testing automated Deploy");
 		SpringApplication.run(ShippingServiceExampleApplication.class, args);
 	}
 
